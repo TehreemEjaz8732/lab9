@@ -1,1 +1,1 @@
-# git@github.com:WebDevSimplified/is-wds-npm-package.git
+# is-wds-npm-package
